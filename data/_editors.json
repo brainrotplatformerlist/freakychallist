@@ -6,18 +6,38 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "WuShady",
+        "link": "https://www.youtube.com/@Wwushady"
+    },
+    {
+        "role": "admin"
+        "name": "Terralyx"
+        "link": "https://youtube.com/@terralyxsecret?si=4JQabO0FR8gS4mMK"
+    },
+    {
+        "role": "admin"
+        "name": "Mental"
+        "link": "https://youtube.com/@mentalvr5978?si=R0rr0EolOhfNjR27"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Deat",
+        "link": "https://youtube.com/@cubicmold3483?si=OK4Nh-ZGleHD_sh2"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "Sary",
+        "link": "https://youtube.com/@sarygmd?si=ZqjoyYbFKpFfCvsa"
+    },
+    {
+        "role": "helper"
+        "name": "petroff"
+        "link": "https://www.youtube.com/@zZoonk"
+    },
+    {
+        "role": "helper"
+        "name": "Disky"
+        "link": "https://youtube.com/@diskydoesruns?si=Z2NH6WgBe9doY1NQ"
     },
     {
         "role": "dev",

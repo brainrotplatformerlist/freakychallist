@@ -8,5 +8,15 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Jayxofc",
+            "link": "https://www.youtube.com/watch?v=n3SnM1bGFWE&ab_channel=Jayxofc",
+            "percent": 100
+        },
+        {
+            "user": "petroff",
+            "link": "https://youtu.be/iqNdxF7TzU4",
+            "percent": 100
+        }
     ]
 }
